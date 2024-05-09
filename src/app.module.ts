@@ -33,5 +33,8 @@ import { JoiValidationSchema } from './config/joi.validation';
     PokemonModule, CommonModule, SeedModule
   ],
 
+// ! AVERIGUAR POR QUE CUANDO HAGO LA PETICION DE POSTMAN DE LA API ME TRAE EL HTML Y NO LA BASE DE DATOS CON LOS POKEMONS
+
+
 })
 export class AppModule { }
